@@ -16,10 +16,10 @@ body {
   position: relative;
 }
 
-/* container for price, shipping and color options */
+/* container for price, shipping, color options and product details */
 .container {
   display: flex;
-  gap: 40px;
+  gap: 50px;
 }
 
 .product-header {
